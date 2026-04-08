@@ -45,8 +45,7 @@ now.
 | --- | --- |
 | [Cueforth](https://github.com/ajama475/cueforth) | A student planning platform designed to turn course chaos into clear next actions. Its PanicButton workflow helps students upload a syllabus, surface likely deadlines, and export them to a calendar. [Live demo](https://cueforth.vercel.app/) |
 | [Talio](https://github.com/ajama475/Talio) | A unified career intelligence platform for job discovery, tailored resumes, application prep, and interview readiness in one workspace. |
-| [Breeze-Seas](https://github.com/CMPUT301W26breeze/breeze-seas) |A featured project in my current portfolio that is still being refined, with more concrete public framing coming as the product direction sharpens. |
-
+| [Breeze-Seas](https://github.com/CMPUT301W26breeze/breeze-seas) |A featured project in my current portfolio that is still being refined, with more concrete public framing coming as the product direction sharpens.  [Live documentation](https://cmput301w26breeze.github.io/breeze-seas/) |
 ### Approach
 
 - Clear thinking over noise
