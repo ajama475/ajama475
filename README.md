@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  Product-minded builder focused on thoughtful interfaces, practical systems,
-  and tools that feel calm, useful, and well-shaped.
+  Product-minded builder focused on thoughtful interfaces, practical systems, and tools that feel calm, useful, and well-shaped.
 </p>
 
 <p align="center">
@@ -20,11 +19,9 @@
 
 ### About
 
-I am most interested in software that reduces friction and brings clarity to
-messy workflows.
+I am most interested in building software that reduces friction and brings clarity to messy workflows.
 
-Right now, that means building products that combine strong product direction,
-solid engineering, and a cleaner user experience than people usually expect.
+Right now, that means building products that combine strong product direction, solid engineering, and a cleaner user experience than people usually expect.
 
 ### Core Stack
 
@@ -32,20 +29,20 @@ TypeScript, JavaScript, React, Python, FastAPI, Django, Java, SQLite, Firebase, 
 
 ### Current Focus
 
-- Turning promising ideas into projects with real product shape
+- Turning promising ideas into products with real shape
 - Building AI-assisted workflows that feel practical, not gimmicky
 - Raising the bar on craft, clarity, and execution with each iteration
 
 ### Selected Work
 
-The pinned repositories below are the best snapshot of what I am building right
-now.
+The pinned repositories below are the best snapshot of what I am building right now.
 
 | Project | What it is |
 | --- | --- |
-| [sync-your-semester](https://github.com/ajama475/sync-your-semester) | A student planning platform designed to turn course chaos into clear next actions. Its PanicButton workflow helps students upload a syllabus, surface likely deadlines, and export them to a calendar. [Live demo](https://sync-your-semester.ahmedjama475.workers.dev/) |
+| [Sync Your Semester](https://github.com/ajama475/sync-your-semester) | A student planning tool that turns messy syllabi into a clear view of what is coming up. It lets students upload course documents, review extracted deadlines, and organize everything into one calm dashboard. [Live demo](https://sync-your-semester.ahmedjama475.workers.dev/) |
 | [Talio](https://github.com/ajama475/Talio) | A unified career intelligence platform for job discovery, tailored resumes, application prep, and interview readiness in one workspace. |
-| [Breeze-Seas](https://github.com/CMPUT301W26breeze/breeze-seas) |A featured project in my current portfolio that is still being refined, with more concrete public framing coming as the product direction sharpens.  [Live documentation](https://cmput301w26breeze.github.io/breeze-seas/) |
+| [Breeze-Seas](https://github.com/CMPUT301W26breeze/breeze-seas) | An Android event discovery and lottery-based registration platform built for CMPUT 301. It helps users join community events, enter lotteries for high-demand spots, and manage invitations through a mobile-first experience. [Live documentation](https://cmput301w26breeze.github.io/breeze-seas/) |
+
 ### Approach
 
 - Clear thinking over noise
@@ -71,7 +68,3 @@ now.
 </p>
 
 </details>
-
-<p align="center">
-  <sub>LOCATION: [REDACTED] • SIGNAL_ORIGIN: 0.0000° N, 0.0000° E</sub>
-</p>
