@@ -3,10 +3,6 @@
 <h1 align="center">Ahmed Jama</h1>
 
 <p align="center">
-  Building software that turns noise into clear next actions.
-</p>
-
-<p align="center">
   Product-minded builder focused on thoughtful interfaces, practical systems, and tools that feel calm, useful, and well-shaped.
 </p>
 
