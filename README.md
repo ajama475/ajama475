@@ -1,9 +1,7 @@
-<!-- GitHub Profile README -->
-
 <h1 align="center">Ahmed Jama</h1>
 
 <p align="center">
-  Product-minded builder focused on thoughtful interfaces, practical systems, and tools that feel calm, useful, and well-shaped.
+  I build practical software that makes messy workflows clearer and easier to use.
 </p>
 
 <p align="center">
@@ -15,52 +13,40 @@
 
 ### About
 
-I am most interested in building software that reduces friction and brings clarity to messy workflows.
+I'm interested in software that makes everyday tasks simpler and complicated workflows easier to navigate, especially tools for students and early-career work.
 
-Right now, that means building products that combine strong product direction, solid engineering, and a cleaner user experience than people usually expect.
+I also like digging into how systems work, particularly in computer science and AI.
+
+### Current Focus
+
+- Building tools that make everyday workflows easier
+- Exploring how language models reason over structured data
 
 ### Core Stack
 
 TypeScript, JavaScript, React, Python, FastAPI, Django, Java, SQLite, Firebase, Docker
 
-### Current Focus
-
-- Turning promising ideas into products with real shape
-- Building AI-assisted workflows that feel practical, not gimmicky
-- Raising the bar on craft, clarity, and execution with each iteration
-
 ### Selected Work
 
-The pinned repositories below are the best snapshot of what I am building right now.
-
-| Project | What it is |
+| Project | Description |
 | --- | --- |
-| [Sync Your Semester](https://github.com/ajama475/sync-your-semester) | A student planning tool that turns messy syllabi into a clear view of what is coming up. It lets students upload course documents, review extracted deadlines, and organize everything into one calm dashboard. [Live demo](https://sync-your-semester.ahmedjama475.workers.dev/) |
-| [Talio](https://github.com/ajama475/Talio) | A unified career intelligence platform for job discovery, tailored resumes, application prep, and interview readiness in one workspace. |
-| [Breeze-Seas](https://github.com/CMPUT301W26breeze/breeze-seas) | An Android event discovery and lottery-based registration platform built for CMPUT 301. It helps users join community events, enter lotteries for high-demand spots, and manage invitations through a mobile-first experience. [Live documentation](https://cmput301w26breeze.github.io/breeze-seas/) |
-
-### Approach
-
-- Clear thinking over noise
-- Strong product framing over feature sprawl
-- Calm, intentional presentation over generic templates
+| [Sync Your Semester](https://github.com/ajama475/sync-your-semester) | Turns course syllabi into organized deadlines and a clear dashboard. [Live demo](https://sync-your-semester.ahmedjama475.workers.dev/) |
+| [Talio](https://github.com/ajama475/Talio) | Career platform for job discovery, tailored resumes, and interview preparation. |
+| [Breeze-Seas](https://github.com/CMPUT301W26breeze/breeze-seas) | Android app for community events and lottery-based registration. [Documentation](https://cmput301w26breeze.github.io/breeze-seas/) |
+| [Table Reasoning](https://github.com/CMPUT499Research/table-reasoning) | Research into how language models identify relevant evidence in tables and determine whether there's enough information to answer a question. |
 
 <details>
-<summary><strong>Signature Line</strong></summary>
+<summary>A line I like</summary>
 
-<br />
-
-> “I must not fear.  
+> I must not fear.  
 > Fear is the mind-killer.  
 > Fear is the little-death that brings total obliteration.  
 > I will face my fear.  
 > I will permit it to pass over me and through me.  
 > And when it has gone past I will turn the inner eye to see its path.  
 > Where the fear has gone there will be nothing.  
-> Only I will remain.”
+> Only I will remain.
 
-<p>
-  Frank Herbert, <em>Dune</em>
-</p>
+Frank Herbert, *Dune*
 
 </details>
